@@ -23,6 +23,6 @@ ReactDOM.render(
 
 <style>
 .ant-alert {
-  margin-bottom: 16px;
+  margin-bottom: 66px;
 }
 </style>
